@@ -1,0 +1,16 @@
+In SuryaHadoopPro.jar i am providing five simple examples for MapReduce Programming.
+
+1. SED - 
+   input - /inputs/input1.txt
+
+2. GREP -
+   input - /inputs/input1.txt
+
+3. Longest
+   input - /inputs/longest.txt
+
+4. AverageCount
+   input - /inputs/avgcount.txt
+
+5. Alphabets is the example for Partitioner
+   input - /inputs/alphabets.txt
