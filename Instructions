@@ -1,4 +1,5 @@
-In SuryaHadoopPro.jar i am providing five simple examples for MapReduce Programming.
+In SuryaHadoopPro.jar i am providing five simple examples for MapReduce Programming. Using jar file you can run these Applications in Psuedo Cluster Mode.
+
 
 1. SED - 
    input - /inputs/input1.txt
