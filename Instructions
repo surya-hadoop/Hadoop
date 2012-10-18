@@ -1,7 +1,7 @@
 In SuryaHadoopPro.jar i am providing five simple examples for MapReduce Programming. 
-Extract SuryaHadoopPro.jar for Source Code.
+Extract SuryaHadoopPro.jar for Source Code, and Import them into Eclipse.
 Using jar file you can run these Applications in Psuedo Cluster Mode.
-
+Extract inputs.tar.gz for the following input files.
 
 1. SED - 
    input - /inputs/input1.txt
